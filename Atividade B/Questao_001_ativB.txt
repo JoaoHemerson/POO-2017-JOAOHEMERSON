@@ -1,0 +1,12 @@
+Programação estruturada(imperativa) X Programação orientada a objetos.
+
+	Na programação orientada a objetos como o proprio nome ja diz, usa como "referencia" objetos;
+mas o que seria esses objetos? Usando como analogia um objeto seria como uma casa pronta para morar, 
+ainda nesse contexto, temos outro conceito que seria o de classes representada pela planta da casa, 
+diferente da programação estruturada as variáveis em POO são apenas referencias a objetos, outra diferença
+da programação estruturada e POO é que todo objeto deve ser instaciado antes de ser usado no programa principal.
+	Em POO o estado de um objeto de modo grosseiro se refere ao tipo desse objeto em java pode ser uma String,
+inteiro(int),numero com ponto flutuante(double), um boolean (retorna true ou false), cada membro do objeto é chamado
+é chamado de atributo e caracterizam o mesmo.
+	
+
