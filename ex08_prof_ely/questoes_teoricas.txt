@@ -1,0 +1,14 @@
+1 . Não, as classes abstratatas funcionam como uma classe referencia para outras subclasses que sejam do mesmo tipo. por exemplo uma conta
+de banco, existe contas poupança e bancarias que são do tipo conta e todas elas podem sacar, depositar, transferir e ver saldo
+sendo assim todas sao do tipo conta, dai a vantagem de criar uma classe abstrada do tipo conta.
+
+
+2 para ClasseConcreta compilar é necessário sobrescrever o metodo abstrato imprimaAlgo(); implementando-o, caso contrario havera erro.
+
+
+3 Ocorre um erro pois os um metodo abstrato que é herdade tem por obrigação ser implementado, uma saída para evitar que 
+codigo herdem um metodo que funcione diferente em cada subclasse e o programador esqueça de editar tais metodos e tbm evitar
+repetiçao de codigo desnecessaria.
+
+7. Porque FiguraGeometrica é uma classe abstrata ou seja uma referencia já FiguraGeometrica[10] é um objeto que faz parte de um array
+e está armazenado na posiçao 10.
